@@ -30,8 +30,6 @@ This project analyzes the most frequently used words in each act of Romeo and Ju
 ### Dashboard 2
 ![Dashboard 2](Screenshoots/dashboard-2.png)
 
-### Story
-![Story](Screenshoots/storytelling-1.png)
 
 ## Key Insights
 - **Act 3 is the busiest act** with 1,158 mentions and the turning point of the story, while **Act 5 is the quietest** with 590.
