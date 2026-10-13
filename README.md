@@ -17,11 +17,6 @@ This project analyzes the most frequently used words in each act of Romeo and Ju
 ## Project Structure
 - `Romio and juliet tablaeu.twbx`: the Tableau packaged workbook
 - `Screenshoots/`: screenshots of the dashboards and story
-- 
-### Story
-![Story](Screenshoots/storytelling-1.png)
-
-![Story](Screenshoots/storytelling-2.png)
 
 ## Dashboards
 ### Dashboard 1
@@ -29,6 +24,11 @@ This project analyzes the most frequently used words in each act of Romeo and Ju
 
 ### Dashboard 2
 ![Dashboard 2](Screenshoots/dashboard-2.png)
+
+### Story
+![Story](Screenshoots/storytelling-1.png)
+
+![Story](Screenshoots/storytelling-2.png)
 
 
 ## Key Insights
