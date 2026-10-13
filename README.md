@@ -17,9 +17,13 @@ This project analyzes the most frequently used words in each act of Romeo and Ju
 ## Project Structure
 - `Romio and juliet tablaeu.twbx`: the Tableau packaged workbook
 - `Screenshoots/`: screenshots of the dashboards and story
+- 
+### Story
+![Story](Screenshoots/storytelling-1.png)
+
+![Story](Screenshoots/storytelling-2.png)
 
 ## Dashboards
-
 ### Dashboard 1
 ![Dashboard 1](Screenshoots/dashboard-1.png)
 
@@ -27,7 +31,7 @@ This project analyzes the most frequently used words in each act of Romeo and Ju
 ![Dashboard 2](Screenshoots/dashboard-2.png)
 
 ### Story
-![Story](Screenshoots/story.png)
+![Story](Screenshoots/storytelling-1.png)
 
 ## Key Insights
 - **Act 3 is the busiest act** with 1,158 mentions and the turning point of the story, while **Act 5 is the quietest** with 590.
